@@ -1,5 +1,5 @@
 {
-  "name": "@fantasythrone/eslint-config",
+  "name": "@irina/eslint-config",
   "version": "0.0.1",
   "description": "Base eslint configuration for Fantasy Throne projects.",
   "main": "index.js",
